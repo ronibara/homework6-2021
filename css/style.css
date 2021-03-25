@@ -15,7 +15,7 @@ header{
   /*Your  code here again.*/
   display: flex;
   flex-direction: column;
-  /* align-items: center; */
+  align-items: center;
 }
 
 /*Requirement 3*/
@@ -72,7 +72,7 @@ header{
   /*Your code here again.*/
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   /* align-content: stretch; */
   /* justify-items: stretch; */
